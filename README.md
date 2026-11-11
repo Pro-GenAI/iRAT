@@ -2,8 +2,7 @@
 
 # _iRAT_: Replanning and Controlled Retrieval for Robust LLM Reasoning
 
-<!-- [![Preprint](https://img.shields.io/badge/Preprint-202507.1289-fcd400?style=for-the-badge)](https://www.preprints.org/manuscript/202507.1289) -->
-[![Preprint](https://img.shields.io/badge/Paper-PDF-FFF7CC?style=for-the-badge)](./iRAT-preprint.pdf)
+[![Preprint](https://img.shields.io/badge/Preprint-202507.1289-fcd400?style=for-the-badge)](https://www.preprints.org/manuscript/202507.1289)
 [![Model](https://img.shields.io/badge/HuggingFace-iRATReasoningChainEvaluatorv2-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/prane-eth/iRATReasoningChainEvaluatorv2)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praneeth.v/introducing-irat-smarter-reasoning-for-large-language-models-37c8741c3b80)
 
@@ -11,7 +10,7 @@
 [![LLMs](https://img.shields.io/badge/LLMs-1A535C?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg?style=for-the-badge&logo=github&logoColor=white)](./LICENSE.md)
-<!-- [![DOI](https://img.shields.io/badge/DOI-10.XXXXX/XXXXX-darkgreen?style=for-the-badge)](https://doi.org/10.XXXXX/XXXXX) -->
+[![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202507.1289.v2-darkgreen?style=for-the-badge)](https://doi.org/10.20944/preprints202507.1289.v2)
 
 <br>
 
@@ -52,13 +51,14 @@ Screenshots are available in the [Demo](Demo) folder.
 
 ## Citation
 ```bibtex
-@misc{vadlapati2025irat,
-  author       = {Praneeth Vadlapati and Zeeshan Ali},
+@article{iratteam2025irat,
+  author       = {Zeeshan Ali and Praneeth Vadlapati and Aryan Singh},
   title        = {iRAT: Replanning and Controlled Retrieval for Robust LLM Reasoning},
   year         = {2025},
   month        = {July},
-  howpublished = {\url{https://github.com/prane-eth/iRAT}},
-  note         = {GitHub repository}
+  doi          = {10.20944/preprints202507.1289.v2},
+  publisher    = {Preprints.org},
+  url          = {https://doi.org/10.20944/preprints202507.1289.v2}
 }
 ```
 
